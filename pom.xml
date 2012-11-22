@@ -26,6 +26,6 @@
   </build>
   <modules>
     <module>project15min-webapp</module>
-    <module>project15min-functional-tests</module>
+    <module> project15min-functional-tests</module>
   </modules>
 </project>
